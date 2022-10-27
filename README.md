@@ -7,10 +7,3 @@ Based on "Introduction to RPA and Automation" at https://academy.uipath.com/cour
 
 See [README.md](./100/README.md)
 
-### What Is RPA? What Is Automation?  
-
-### Automation Is Driving the Digital Transformation  
-
-### Automation in Business  
-
-### The Automation Journey  
